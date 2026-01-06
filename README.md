@@ -17,3 +17,8 @@ python file_handling.py
 
 Make sure all files are in the same directory.
 
+## Related article
+
+Python File Objects Explained in Simple Terms  
+https://indrajeet-codes.hashnode.dev/python-file-objects-explained-in-simple-terms?t=1767715266803
+
